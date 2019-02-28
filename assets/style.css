@@ -71,12 +71,17 @@ header{
 }
 
 footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
     padding: 10px;
     clear: both;
     margin-top: 20px;   
-    text-align: center;    
+    text-align: center;
     font-size: smaller;
-    background: grey;    
+    background: grey;
     border-top: 8px solid #4aaaa5;
   }
   
